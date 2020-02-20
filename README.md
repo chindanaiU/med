@@ -3,4 +3,4 @@
 - ผมชื่อชินดนัย
 -<a href=y.htm>y.htm</a>
 -<a href=x.htm>x.htm</a>
-- [link]x.htm
+- [link](x.htm)
